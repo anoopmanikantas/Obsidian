@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+// NOTE: THIS IS A TEST VIEW, CREATED TO TEST THEME MANAGER
+// TODO: Create Custom views along with Navigation Stacks
+
 struct ContentView: View {
     @EnvironmentObject var themeManager: ThemeManager
     
