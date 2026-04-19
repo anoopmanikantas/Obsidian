@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		A67DD3CF2F91FE2300C46787 /* Obsidian.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Obsidian.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A67DD3CF2F91FE2300C46787 /* Obsidian.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Obsidian.app; path = "/Users/anoopsubramani/projects/Obsidian/build/Debug-iphoneos/Obsidian.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				A67DD3D12F91FE2300C46787 /* Obsidian */,
-				A67DD3D02F91FE2300C46787 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		A67DD3D02F91FE2300C46787 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				A67DD3CF2F91FE2300C46787 /* Obsidian.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = A67DD3C62F91FE2300C46787;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = A67DD3D02F91FE2300C46787 /* Products */;
+			productRefGroup = A67DD3C62F91FE2300C46787;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
